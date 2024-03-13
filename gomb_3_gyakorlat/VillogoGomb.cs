@@ -12,6 +12,7 @@ namespace gomb_3_gyakorlat
         {
             MouseEnter += VillogoGomb_MouseEnter;   /*MouseEnter += tab tab --* eseményhez rendel eseménykiszolgáó függvényt*/
             MouseLeave += VillogoGomb_MouseLeave;
+            
         }
 
         private void VillogoGomb_MouseEnter(object? sender, EventArgs e)

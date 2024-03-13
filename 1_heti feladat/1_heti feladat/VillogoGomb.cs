@@ -24,5 +24,7 @@ namespace _1_heti_feladat
         {
             BackColor = Color.Yellow;
         }
+
+    
     }
 }
