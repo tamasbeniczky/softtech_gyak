@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pascal", "Pascal\Pascal.csproj", "{360DCC17-E25D-45A8-94D4-8ACC19EF072B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gomb_3_gyakorlat", "gomb_3_gyakorlat\gomb_3_gyakorlat.csproj", "{97CC0648-3B5D-4785-8EF2-0FB128224A66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gomb_3_gyakorlat", "gomb_3_gyakorlat\gomb_3_gyakorlat.csproj", "{97CC0648-3B5D-4785-8EF2-0FB128224A66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake", "Snake\Snake.csproj", "{BA7730F5-BB11-472B-A0CA-14A8C38C94E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{97CC0648-3B5D-4785-8EF2-0FB128224A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97CC0648-3B5D-4785-8EF2-0FB128224A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97CC0648-3B5D-4785-8EF2-0FB128224A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA7730F5-BB11-472B-A0CA-14A8C38C94E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7730F5-BB11-472B-A0CA-14A8C38C94E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7730F5-BB11-472B-A0CA-14A8C38C94E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7730F5-BB11-472B-A0CA-14A8C38C94E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
